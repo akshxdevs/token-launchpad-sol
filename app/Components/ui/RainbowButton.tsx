@@ -1,5 +1,5 @@
 import React from "react";
-import { cn } from "../fonts/lib/utils";
+import { cn } from "../lib/utils";
 import { bricolage_grotesque } from "../fonts/fonts";
 
 
