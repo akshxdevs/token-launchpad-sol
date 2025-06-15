@@ -337,7 +337,7 @@ export function TokenLaunchpad() {
         <div className="flex flex-col justify-center items-center h-screen bg-black text-white space-y-4">
             <h1 className="text-4xl font-bold freaky-text animate-freaky">Solana Token Launchpad</h1>
             <p className="text-gray-400 w-64">Claim the Airdrop one my token $AKS for free click the below button</p>
-            <RainbowButton onClick={createTokenAKS}><img src="/love-cute.gif" alt="fire" className="w-6 h-6 mx-2" /><span>AKS Token</span></RainbowButton>
+            <RainbowButton onClick={createTokenAKS}><img src="/love-cute.gif" alt="fire" className="w-6 h-6 mx-2" /><span>$AKS Token</span></RainbowButton>
             <div className="border-t px-24 border-gray-500"></div>
             <h1 className="text-xl font-bold tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-white via-neutral-300 to-gray-400 fade-in-up">Create your own token here!</h1>
             <div className="min-w-62 flex flex-col justify-center items-center gap-3">
