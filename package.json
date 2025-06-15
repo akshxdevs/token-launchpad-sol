@@ -15,11 +15,19 @@
     "@solana/wallet-adapter-react-ui": "^0.9.39",
     "@solana/wallet-adapter-wallets": "^0.19.37",
     "@solana/web3.js": "^1.98.2",
+    "assert": "^2.1.0",
+    "buffer": "^6.0.3",
     "clsx": "^2.1.1",
+    "crypto-browserify": "^3.12.1",
+    "https-browserify": "^1.0.0",
     "next": "14.2.29",
+    "os-browserify": "^0.3.0",
     "react": "^18",
     "react-dom": "^18",
-    "tailwind-merge": "^3.3.1"
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
+    "tailwind-merge": "^3.3.1",
+    "url": "^0.11.4"
   },
   "devDependencies": {
     "@types/node": "^20",
