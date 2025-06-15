@@ -30,7 +30,7 @@ import {
     pack
 } from '@solana/spl-token-metadata';
 import React, { useRef, useState } from 'react';
-import { RainbowButton } from "./Components/ui/RainbowButton";
+import { RainbowButton } from "../ui/RainbowButton";
 
 export function TokenLaunchpad() {
     const { connection } = useConnection();
